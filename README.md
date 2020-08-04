@@ -1,5 +1,5 @@
-# Ninjump
-Ninjump game implemented C++
+# Arrow
+Arrow android game implemented C++ for windows/linux
 Final Project for Shahid Beheshti University Using SDL2 & SBDL
  
 
